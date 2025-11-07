@@ -1,0 +1,28 @@
+html {
+    background-color: peachpuff;
+}
+
+h1, h2, h3, ul {
+    margin: auto;
+}
+.header {
+    background-image: url(images/3-fruit.jpg);
+    height: 300px;
+}
+
+.site-id {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 30%);
+    border-top: 4px solid black;
+    padding: 20px;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: auto;
+}
+
+.middle{
+    background-color: white;
+    padding: 20px;
+}
